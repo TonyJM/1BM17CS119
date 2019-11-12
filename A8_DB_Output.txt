@@ -1,0 +1,141 @@
+
+1. Insert
+2. Search
+3. Update
+4. Delete
+5. Display
+6. Exit
+
+Enter choice : 1
+Enter no. of rows: 3
+
+Enter USN : 1
+Enter Name : Ram
+Enter Semester : 4
+Enter Branch: CSE
+Enter CGPA : 9.2
+
+Enter USN : 3
+Enter Name : Sita
+Enter Semester : 5
+Enter Branch: ECE
+Enter CGPA : 9.4
+
+Enter USN : 2
+Enter Name : Laxman
+Enter Semester : 2
+Enter Branch: ME
+Enter CGPA : 8.8
+
+1. Insert
+2. Search
+3. Update
+4. Delete
+5. Display
+6. Exit
+
+Enter choice : 5
+
+USN		Name		Sem		Branch		CGPA
+1		Ram		4		CSE		9.2
+3		Sita		5		ECE		9.4
+2		Laxman		2		ME		8.8
+
+1. Insert
+2. Search
+3. Update
+4. Delete
+5. Display
+6. Exit
+
+Enter choice : 2
+
+Search USN : 4
+
+Invalid USN
+
+1. Insert
+2. Search
+3. Update
+4. Delete
+5. Display
+6. Exit
+
+Enter choice : 2
+
+Search USN : 3
+
+USN		Name		Sem		Branch		CGPA
+3		Sita		5		ECE		9.4
+
+1. Insert
+2. Search
+3. Update
+4. Delete
+5. Display
+6. Exit
+
+Enter choice : 3
+
+Update USN : 2
+Enter Name : Ravan
+Enter Semester : 6
+Enter Branch: CSE
+Enter CGPA : 9
+
+1. Insert
+2. Search
+3. Update
+4. Delete
+5. Display
+6. Exit
+
+Enter choice : 5
+
+USN		Name		Sem		Branch		CGPA
+1		Ram		4		CSE		9.2
+3		Sita		5		ECE		9.4
+2		Ravan		6		CSE		9.0
+
+1. Insert
+2. Search
+3. Update
+4. Delete
+5. Display
+6. Exit
+
+Enter choice : 4
+
+Delete USN : 2
+
+1. Insert
+2. Search
+3. Update
+4. Delete
+5. Display
+6. Exit
+
+Enter choice : 5
+
+USN		Name		Sem		Branch		CGPA
+1		Ram		4		CSE		9.2
+3		Sita		5		ECE		9.4
+
+1. Insert
+2. Search
+3. Update
+4. Delete
+5. Display
+6. Exit
+
+Enter choice : 7
+Invalid Input
+
+1. Insert
+2. Search
+3. Update
+4. Delete
+5. Display
+6. Exit
+
+Enter choice : 6
